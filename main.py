@@ -1,5 +1,3 @@
-#Arthur Sarkissyan, Student ID: 011413727
-
 import truck
 import csv
 import package
